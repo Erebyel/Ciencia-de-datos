@@ -1,1 +1,1 @@
-
+1. **[Tratamiento de datos: muerte por polución](https://github.com/Erebyel/ciencia-de-datos/blob/main/explicando-codigo/Tratamiento%20de%20datos_Muertes%20de%20Poluci%C3%B3n.ipynb)** - ejercicio breve sobre cómo transponer un conjunto de datos que están preparados para visualización de forma que puedan ser procesados por técnicas de Aprendizaje Automático.
